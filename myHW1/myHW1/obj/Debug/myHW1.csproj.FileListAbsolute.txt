@@ -1,0 +1,12 @@
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\bin\Debug\myHW1.exe.config
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\bin\Debug\myHW1.exe
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\bin\Debug\myHW1.pdb
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.csprojResolveAssemblyReference.cache
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.mainWindow.resources
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.Properties.Resources.resources
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.csproj.GenerateResource.Cache
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.csproj.CoreCompileInputs.cache
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.exe
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.pdb
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\myHW1.Form2.resources
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Debug\BSpine.BPic.resources

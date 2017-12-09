@@ -1,0 +1,12 @@
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\bin\Release\myHW1.exe.config
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\bin\Release\myHW1.exe
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\bin\Release\myHW1.pdb
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\BSpine.BPic.resources
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.mainWindow.resources
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.Form2.resources
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.Properties.Resources.resources
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.csproj.GenerateResource.Cache
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.csproj.CoreCompileInputs.cache
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.exe
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.pdb
+D:\TsinghuaCourses\JuniorAutumn\数值分析\大作业\myHW1\myHW1\obj\Release\myHW1.csprojResolveAssemblyReference.cache
