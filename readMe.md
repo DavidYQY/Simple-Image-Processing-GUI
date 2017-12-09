@@ -1,6 +1,6 @@
 # Simple Image Processing
 
-《数值分析》大作业1
+"数值分析"大作业1
 
 ## 结果展示
 
